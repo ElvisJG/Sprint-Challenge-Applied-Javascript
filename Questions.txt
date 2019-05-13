@@ -1,0 +1,14 @@
+1. What is the DOM?
+The DOM is the Document Object Model. It allows us to manipulate, interact, and change elements on webpages. 
+
+2. What is an event?
+Events are any interaction a user has with a website
+
+3. What is an event listener?
+An event listener fires a callback that happens when an event happens, it's treated as a condition.
+
+4. Why would we convert a NodeList into an Array?
+You need to convert NodeLists to arrays to that you can manipulate them with JS
+
+5. What is a component?
+Components are reusuable 'chunks' of HTML/CSS/JS
